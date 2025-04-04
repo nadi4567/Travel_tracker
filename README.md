@@ -1,7 +1,7 @@
 # 🌍 Travel Tracker
 
 ### Travel Tracker is a simple web application that helps users log and track the countries they have visited. 
-## Built using **Node.js, Express, PostgreSQL, and EJS**, it provides an interactive interface for managing visited countries.
+#### Built using **Node.js, Express, PostgreSQL, and EJS**, it provides an interactive interface for managing visited countries.
 
 ## 🚀 Features
 - 🌎 **Add countries** you have visited.
@@ -14,7 +14,7 @@
 
 ### 1️⃣ Clone the Repository
 - git clone https://github.com/nadi4567/Travel_tracker.git
-- cd travel-tracker
+- cd Travel_tracker
 
 ### 2️⃣ Install Dependencies
 - npm i
@@ -52,9 +52,9 @@
 -Bootstrap / CSS (Frontend)
 
 ## 📌 Future Improvements
-# ✅ User authentication for personalized tracking.
-# 📊 Data visualization (e.g., map view of visited countries).
-# 🌍 API integration for live country data.
+#### ✅ User authentication for personalized tracking.
+#### 📊 Data visualization (e.g., map view of visited countries).
+#### 🌍 API integration for live country data.
 
 
 
