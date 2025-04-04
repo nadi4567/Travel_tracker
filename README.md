@@ -32,18 +32,18 @@
 ## 🏛️ Database Schema
 ## Countries Table
 
-| Column       | Type        | Description          |
-|--------------|-------------|----------------------|
-| id           | INTEGER(PK) |Auto-incrementing ID  |
-| country_code | CHAR(2)     | Unique country code  |
-| country_name | CHAR(100)   | Full country name    |
+| Column       | Type            | Description          |
+|--------------|-----------------|----------------------|
+| id           | INTEGER(SERIAL) |Auto-incrementing ID  |
+| country_code | CHAR(2)         | Unique country code  |
+| country_name | CHAR(100)       | Full country name    |
 
 ### visited_countries Table
 
-| Column       | Type        | Description          |
-|--------------|-------------|----------------------|
-| id           | INTEGER(PK) |Auto-incrementing ID  |
-| country_code | CHAR(2)     | Unique country code  |
+| Column       | Type            | Description          |
+|--------------|-----------------|----------------------|
+| id           | INTEGER(SERIAL) |Auto-incrementing ID  |
+| country_code | CHAR(2)         | Unique country code  |
 
 🛠️ Technologies Used
 - Node.js + Express.js (Backend)
