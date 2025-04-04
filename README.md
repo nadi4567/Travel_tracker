@@ -13,7 +13,7 @@
 ## 🏗️ Installation
 
 ### 1️⃣ Clone the Repository
-- git clone https://github.com/yourusername/travel-tracker.git
+- git clone https://github.com/nadi4567/Travel_tracker.git
 - cd travel-tracker
 
 ### 2️⃣ Install Dependencies
